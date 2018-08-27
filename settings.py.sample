@@ -1,0 +1,3 @@
+TOKEN = 'your key for api.telegram.org/bot'
+APPID = "your key for weather forecast server"
+WEATHER_SERVER = HTTP address of the weather server
